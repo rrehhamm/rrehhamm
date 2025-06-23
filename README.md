@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reham Tariq</h1>
+<h1 align="center">Hi , I'm Reham Tariq</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/56/ef/1d/56ef1d2b1b6bbfdc24a3742baaebd559.jpg">
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Unity 3D**
+- I’m currently learning **Web Design**
 
-- 🤝 I’m looking for help with **Game Development**
+- I’m looking for help with **Backend**
 
-- 💬 Ask me about **Java , C++**
+- Ask me about **Java , C++ , Design**
 
-- 📫 How to reach me **rehamtariq805@gmail.com**
+- How to reach me **rehamtariq805@gmail.com**
 
-- ⚡ Fun fact **I am a good designer**
+- Fun fact **I am a good designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/reham-alajarmah-49b398302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/reham-alajarmah-49b398302" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/reham-alajarmah-49b398302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/reham-alajarmah-49b398302](https://www.linkedin.com/in/reham-tareq-217764366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100060931364236&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100060931364236&mibextid=lqqj4d" height="30" width="40" /></a>
 </p>
 
