@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reham</h1>
+<h1 align="center">Hi, I'm Reham</h1>
 <h3 align="center">Software Engineering Student | UI/UX Designer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 - 🎨 Passionate **Designer** with strong visual sense  
 - 💻 Software Engineering student  
 - 🌱 Currently learning **Web Design & Frontend**  
