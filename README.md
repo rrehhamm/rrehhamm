@@ -41,18 +41,14 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrehhamm&show_icons=true&theme=default" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrehhamm&layout=compact" />
-</p>
+![Reham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrehhamm&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrehhamm" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrehhamm&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrehhamm&theme=radical)
+
 
 ---
 
