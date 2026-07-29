@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="45" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" />
 </p>
