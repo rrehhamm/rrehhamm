@@ -13,13 +13,13 @@
 
 ## About Me
 
-- Software Engineering student passionate about building high-quality software.
-- Interested in Software Testing, Quality Assurance, and Full-Stack Development.
-- Experienced in Frontend and Backend development.
-- UI/UX Designer focused on creating clean and user-friendly interfaces.
-- Currently improving my skills in Laravel, React, API Development, and Manual Testing.
-- Always learning new technologies and best practices.
-- Contact: **rehamtariq805@gmail.com**
+- Software Engineering student with a passion for building reliable and user-friendly applications.
+- Interested in Software Testing, Quality Assurance, Full-Stack Development, and UI/UX Design.
+- Experienced in developing web applications using modern frontend and backend technologies.
+- Currently improving my skills in Laravel, React, REST APIs, and Manual Testing.
+- Always eager to learn new technologies and improve my problem-solving skills.
+
+**Email:** rehamtariq805@gmail.com
 
 ---
 
@@ -27,11 +27,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/reham-alajarmah-49b398302" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100060931364236" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"/>
   </a>
 </p>
 
