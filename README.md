@@ -19,7 +19,7 @@
 - Currently improving my skills in Laravel, React, REST APIs, and Manual Testing.
 - Always eager to learn new technologies and improve my problem-solving skills.
 
-**Email:** rehamtariq805@gmail.com
+**Email:** rehamtareq490@gmail.com
 
 ---
 
